@@ -50,7 +50,7 @@ props:{
 background-color: #fa8231;
 color: #fff;
 }
-.button.operation.active{
+.button.operation:active{
     background-color: #fa8231cc;
 }
 
